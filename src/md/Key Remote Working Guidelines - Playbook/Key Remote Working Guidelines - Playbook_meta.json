@@ -1,0 +1,254 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Key Remote Working Guidelines",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.83869004249573,
+          71.32725824415684
+        ],
+        [
+          429.33197021484375,
+          69.68272699415684
+        ],
+        [
+          429.33197021484375,
+          91.54217529296875
+        ],
+        [
+          168.83869004249573,
+          92.83537121117115
+        ]
+      ]
+    },
+    {
+      "title": "1. Communication & Availability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.7664886713028,
+          159.88617318868637
+        ],
+        [
+          266.5948065519333,
+          158.24164193868637
+        ],
+        [
+          265.4307440519333,
+          174.78665113449097
+        ],
+        [
+          70.6024261713028,
+          176.43118238449097
+        ]
+      ]
+    },
+    {
+      "title": "2. Task & Time Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.88377237319946,
+          269.2555312514305
+        ],
+        [
+          244.12491536140442,
+          267.6110000014305
+        ],
+        [
+          242.96085286140442,
+          284.29926830530167
+        ],
+        [
+          70.71970987319946,
+          285.94379955530167
+        ]
+      ]
+    },
+    {
+      "title": "3. Client Engagement & Confidence Building",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.75145298242569,
+          352.30716985464096
+        ],
+        [
+          335.79426884651184,
+          350.66263860464096
+        ],
+        [
+          334.63020634651184,
+          367.66186624765396
+        ],
+        [
+          70.58739048242569,
+          369.30639749765396
+        ]
+      ]
+    },
+    {
+      "title": "4. Security & Compliance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.76450818777084,
+          474.514616727829
+        ],
+        [
+          224.32700729370117,
+          472.870085477829
+        ],
+        [
+          223.16294479370117,
+          489.8464779853821
+        ],
+        [
+          70.60044568777084,
+          491.4910092353821
+        ]
+      ]
+    },
+    {
+      "title": "5. Collaboration & Teamwork",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.76312273740768,
+          570.5934742689133
+        ],
+        [
+          249.09750986099243,
+          568.9489430189133
+        ],
+        [
+          247.93344736099243,
+          585.948321223259
+        ],
+        [
+          70.59906023740768,
+          587.592852473259
+        ]
+      ]
+    },
+    {
+      "title": "A Few Tips:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.27158537507057,
+          72.89971452951431
+        ],
+        [
+          144.2801080942154,
+          71.25518327951431
+        ],
+        [
+          144.2801080942154,
+          86.66412353515625
+        ],
+        [
+          71.27158537507057,
+          87.94483172893524
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Key Remote Working Guidelines - Playbook"
+}
